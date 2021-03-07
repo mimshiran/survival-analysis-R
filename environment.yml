@@ -1,0 +1,15 @@
+name: survival
+channels:
+  - conda-forge
+dependencies:
+  - r-essentials
+  - r-base=3
+  - jupyterlab
+  - r-survival
+  - r-coxphf
+  - r-coxme
+  - r-dplyr
+  - r-ggrepel
+  - r-ggplot2
+  - r-haven
+  
