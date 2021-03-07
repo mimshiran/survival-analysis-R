@@ -6,10 +6,10 @@ dependencies:
   - r-base=3
   - jupyterlab
   - r-survival
-  - r-coxphf
-  - r-coxme
   - r-dplyr
-  - r-ggrepel
   - r-ggplot2
   - r-haven
-  
+  - r-flexsurv
+  - r-survminer
+  - r-stargazer
+  - r-eha
